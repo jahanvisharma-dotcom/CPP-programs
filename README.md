@@ -28,5 +28,6 @@ Then you should print 5+6+2=13.)
 17)	Program to display series and find sum of 1+3+5+……..+n.
 18)	Program to use switch statement. Display Monday to Sunday.
 19)	Program to display arithmetic operator using switch case.
+20) Program to swap two values using functions.
 
 
