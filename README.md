@@ -29,5 +29,6 @@ Then you should print 5+6+2=13.)
 18)	Program to use switch statement. Display Monday to Sunday.
 19)	Program to display arithmetic operator using switch case.
 20) Program to swap two values using functions.
+21) Program to calculate area of a circle using functions
 
 
