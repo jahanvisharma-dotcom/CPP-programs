@@ -31,5 +31,6 @@ Then you should print 5+6+2=13.)
 20) Program to swap two values using functions.
 21) Program to calculate area of a circle using functions
 22) Display Fibonacci Series Using Recursion
+23) Find G.C.D for two integers using recursion
 
 
